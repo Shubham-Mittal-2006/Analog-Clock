@@ -1,3 +1,6 @@
+console.log("ANALOG CLOCK");
+console.log("SHUBHAM MITTAL");
+
 setInterval(() => {
     d = new Date();
     htime = d.getHours();
